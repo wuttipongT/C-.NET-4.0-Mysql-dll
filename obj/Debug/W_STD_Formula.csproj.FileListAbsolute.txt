@@ -1,0 +1,9 @@
+C:\Users\Sleeper\source\repos\W_STD_Formula\W_STD_Formula\bin\Debug\W_STD_Formula.dll.config
+C:\Users\Sleeper\source\repos\W_STD_Formula\W_STD_Formula\bin\Debug\W_STD_Formula.dll
+C:\Users\Sleeper\source\repos\W_STD_Formula\W_STD_Formula\bin\Debug\W_STD_Formula.pdb
+C:\Users\Sleeper\source\repos\W_STD_Formula\W_STD_Formula\bin\Debug\MySql.Data.dll
+C:\Users\Sleeper\source\repos\W_STD_Formula\W_STD_Formula\bin\Debug\MySql.Data.xml
+C:\Users\Sleeper\source\repos\W_STD_Formula\W_STD_Formula\obj\Debug\W_STD_Formula.csproj.CoreCompileInputs.cache
+C:\Users\Sleeper\source\repos\W_STD_Formula\W_STD_Formula\obj\Debug\W_STD_Formula.dll
+C:\Users\Sleeper\source\repos\W_STD_Formula\W_STD_Formula\obj\Debug\W_STD_Formula.pdb
+C:\Users\Sleeper\source\repos\W_STD_Formula\W_STD_Formula\obj\Debug\W_STD_Formula.csprojResolveAssemblyReference.cache

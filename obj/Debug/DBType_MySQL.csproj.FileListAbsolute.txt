@@ -1,0 +1,9 @@
+C:\Users\Sleeper\source\repos\DBType_MySQL\DBType_MySQL\obj\Debug\DBType_MySQL.csproj.CoreCompileInputs.cache
+C:\Users\Sleeper\source\repos\DBType_MySQL\DBType_MySQL\bin\Debug\DBType_MySQL.dll.config
+C:\Users\Sleeper\source\repos\DBType_MySQL\DBType_MySQL\bin\Debug\DBType_MySQL.dll
+C:\Users\Sleeper\source\repos\DBType_MySQL\DBType_MySQL\bin\Debug\DBType_MySQL.pdb
+C:\Users\Sleeper\source\repos\DBType_MySQL\DBType_MySQL\bin\Debug\MySql.Data.dll
+C:\Users\Sleeper\source\repos\DBType_MySQL\DBType_MySQL\bin\Debug\MySql.Data.xml
+C:\Users\Sleeper\source\repos\DBType_MySQL\DBType_MySQL\obj\Debug\DBType_MySQL.csprojResolveAssemblyReference.cache
+C:\Users\Sleeper\source\repos\DBType_MySQL\DBType_MySQL\obj\Debug\DBType_MySQL.dll
+C:\Users\Sleeper\source\repos\DBType_MySQL\DBType_MySQL\obj\Debug\DBType_MySQL.pdb
